@@ -120,7 +120,7 @@ Nous avons donc :
 
 Ensuite pendant le chiffrement le bloc chiffré #1 (07c9d338c75ef768daa6136bfceef685) va être xoré avec notre deuxième bloc (66a8b259a63f9609bbc7720a9d8f9784) ce qui va donner 61616161616161616161616161616101 en entrée pour le bloc chiffré #2 et donc donner le même tag que notre message original.
 
-[Photo du processus]
+![Explication](https://github.com/Rom1-C/FCSC-2021/blob/main/Macaque-50%20points/Explication.png)
 
 Notre message final est donc **6161616161616161616161616161610166a8b259a63f9609bbc7720a9d8f9784**
 
