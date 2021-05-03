@@ -157,6 +157,6 @@ print(long_to_bytes(pow(c,d,N)))
 
 Et c'est flag.
 
-C'était un challenge très intéressant car le problème est différent de ceux qu'on a l'habitude rencontrer.
+C'était un challenge très intéressant car le problème est différent de ceux qu'on a l'habitude de rencontrer.
 
 Le code source et ma solution sont joint.
